@@ -1,3 +1,6 @@
+I forked this only for my personal needs. It's updated with request of MatthiasPetermann in Master for compability with 5th Redmine.  
+
+
 # Redmine Helpdesk
 
 Lightweight helpdesk plugin for redmine. Adds the email sender-address of an anonymous supportclient to the custom field 'owner-email' of a ticket which was created by a support email. Answers can be send to the supportclient by checking the support checkbox on a journal.
