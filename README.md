@@ -1,4 +1,5 @@
-I forked this only for my personal needs. It's updated with request of MatthiasPetermann in Master for compability with 5th Redmine.  
+I forked this only for my personal needs. It's updated with the request of MatthiasPetermann in Master for compability with 5th Redmine.
+I claim nothing there and did nothing by myself. 
 
 
 # Redmine Helpdesk
